@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 there is a game
 2222222885588552hello atguigu! hello git!
+=======
+22hello atguigu! hello git!
+>>>>>>> hot-fix
 hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git!
